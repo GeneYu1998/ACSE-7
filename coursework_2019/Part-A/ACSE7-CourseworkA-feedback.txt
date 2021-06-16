@@ -1,0 +1,5 @@
+A1: all mostly fine on this question, for highest marks I was looking for some evidence of synthesis of ideas from throughout lecture 1, rather than just a cut and paste.
+
+A2: this was also mostly fine; I was impressed that some people made use of sympy, or wrote their own function to transform a matrix to RREF to support their answers; to demonstrate that the solution obtained is the min norm solution I was looking for a 2D plot, quite a few people provided a 1D plot, some no plot.
+
+A3: most of you did this fine, and came up with some quite interesting images to analyse, e.g. fractals, Boris Johnson!  Some of you went into a lot more detail trying to establish the link between image complexity and structure and how easy it is to compress the image - how many singular values are needed. Some of you needed to be careful to either ensure that you used the same image pixel sizes (i.e. the same matrix sizes), or to normalise the number of singular values based on the size of the matrix being compressed.
